@@ -1,11 +1,13 @@
 project:
   type: book
   output-dir: docs
+ 
 
 book:
   title: "quartoTest"
   author: "Jane Doe"
   date: "12/2/2022"
+  downloads: [pdf, docx]
   chapters:
     - index.qmd
     - intro.qmd
