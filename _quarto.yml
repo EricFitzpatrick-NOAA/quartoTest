@@ -13,7 +13,9 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
-    
+  
+  
+  repo-url: https://ericfitzpatrick-noaa.github.io/quartoTest/  
   repo-actions: [edit, source, issue]
   search: true
 
