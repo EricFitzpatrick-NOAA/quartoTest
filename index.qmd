@@ -9,3 +9,7 @@ To learn more about Quarto books visit <https://quarto.org/docs/books>.
 ```{r}
 1 + 1
 ```
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
