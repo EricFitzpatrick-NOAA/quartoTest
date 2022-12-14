@@ -15,7 +15,7 @@ book:
     - references.qmd
   
   site-url: https://ericfitzpatrick-noaa.github.io/quartoTest/
-  repo-url: https://github.com/EricFitzpatrick-NOAA/quartoTest/ 
+  repo-url: https://github.com/EricFitzpatrick-NOAA/quartoTest 
   repo-actions: [edit, source, issue]
   search: true
 
